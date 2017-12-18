@@ -1,0 +1,2 @@
+# bluecollar
+Blue collar jobs
